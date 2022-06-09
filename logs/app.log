@@ -1,0 +1,763 @@
+root - WARNING - This will get logged to a file
+17-Feb-22 08:36:37 root - WARNING - This will get logged to a file
+17-Feb-22 08:39:15 root - ERROR - dasdasdad
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/gama_data_collector.py", line 12, in <module>
+    print(10/i)
+ZeroDivisionError: division by zero
+17-Feb-22 08:39:41 root - ERROR - dasdasdad
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/gama_data_collector.py", line 12, in <module>
+    print(10/i)
+ZeroDivisionError: division by zero
+17-Feb-22 08:41:22 root - ERROR - 10.0
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/gama_data_collector.py", line 12, in <module>
+    a = 10/i
+ZeroDivisionError: division by zero
+17-Feb-22 12:35:38 root - ERROR - {'players': [{'account_id': 321053208, 'player_slot': 0, 'hero_id': 112, 'item_0': 180, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 13152, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 1, 'assists': 0, 'leaver_status': 1, 'last_hits': 27, 'denies': 0, 'gold_per_min': 641, 'xp_per_min': 505, 'level': 5, 'net_worth': 3961, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 508, 'gold': 1911, 'gold_spent': 800, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 367, 'ability_upgrades': [{'ability': 12373, 'time': 100, 'level': 1}, {'ability': 12378, 'time': 137, 'level': 2}, {'ability': 12373, 'time': 142, 'level': 3}, {'ability': 12378, 'time': 189, 'level': 4}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 454982098, 'player_slot': 1, 'hero_id': 85, 'item_0': 180, 'item_1': 473, 'item_2': 13152, 'item_3': 61, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 16, 'denies': 0, 'gold_per_min': 628, 'xp_per_min': 505, 'level': 5, 'net_worth': 3911, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 161, 'gold_spent': 2500, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12609, 'time': 97, 'level': 1}, {'ability': 12611, 'time': 138, 'level': 2}, {'ability': 12609, 'time': 144, 'level': 3}, {'ability': 12610, 'time': 188, 'level': 4}, {'ability': 12609, 'time': 228, 'level': 5}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 308841824, 'player_slot': 2, 'hero_id': 72, 'item_0': 180, 'item_1': 13154, 'item_2': 473, 'item_3': 23, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 20, 'denies': 0, 'gold_per_min': 641, 'xp_per_min': 505, 'level': 5, 'net_worth': 3961, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 503, 'gold': 211, 'gold_spent': 2500, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 317, 'ability_upgrades': [{'ability': 12786, 'time': 92, 'level': 1}, {'ability': 12788, 'time': 137, 'level': 2}, {'ability': 12786, 'time': 142, 'level': 3}, {'ability': 12787, 'time': 194, 'level': 4}, {'ability': 12786, 'time': 232, 'level': 5}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 152724173, 'player_slot': 3, 'hero_id': 128, 'item_0': 29, 'item_1': 0, 'item_2': 13152, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 16, 'denies': 0, 'gold_per_min': 615, 'xp_per_min': 505, 'level': 5, 'net_worth': 3861, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 2611, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12394, 'time': 87, 'level': 1}, {'ability': 12390, 'time': 137, 'level': 2}, {'ability': 12394, 'time': 141, 'level': 3}, {'ability': 12390, 'time': 188, 'level': 4}, {'ability': 12394, 'time': 234, 'level': 5}], 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 225, 'pre_game_duration': 5, 'start_time': 1645078735, 'match_id': 6435577147, 'match_seq_num': 5378886299, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 227, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 1}
+Traceback (most recent call last):
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\packages\six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 86, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+18-Feb-22 00:30:34 root - ERROR - {'players': [{'account_id': 1255146934, 'player_slot': 0, 'hero_id': 110, 'item_0': 261, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 88, 'item_5': 29, 'backpack_0': 0, 'backpack_1': 13154, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 3, 'assists': 0, 'leaver_status': 0, 'last_hits': 26, 'denies': 0, 'gold_per_min': 147, 'xp_per_min': 182, 'level': 4, 'net_worth': 2655, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 982, 'gold': 530, 'gold_spent': 875, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 1163, 'ability_upgrades': [{'ability': 12923, 'time': 133, 'level': 1}, {'ability': 12925, 'time': 221, 'level': 2}, {'ability': 12924, 'time': 346, 'level': 3}, {'ability': 12925, 'time': 480, 'level': 4}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 1130019453, 'player_slot': 1, 'hero_id': 8, 'item_0': 473, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 29, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 4, 'assists': 0, 'leaver_status': 0, 'last_hits': 33, 'denies': 0, 'gold_per_min': 140, 'xp_per_min': 182, 'level': 4, 'net_worth': 1705, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 923, 'gold': 505, 'gold_spent': 850, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 824, 'ability_upgrades': [{'ability': 12650, 'time': 113, 'level': 1}, {'ability': 12651, 'time': 222, 'level': 2}, {'ability': 12650, 'time': 338, 'level': 3}, {'ability': 12651, 'time': 481, 'level': 4}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 2, 'hero_id': 47, 'item_0': 180, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 13154, 'item_5': 13152, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 3, 'assists': 0, 'leaver_status': 0, 'last_hits': 25, 'denies': 0, 'gold_per_min': 140, 'xp_per_min': 182, 'level': 4, 'net_worth': 3355, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 555, 'gold_spent': 800, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12499, 'time': 134, 'level': 1}, {'ability': 12498, 'time': 222, 'level': 2}, {'ability': 12499, 'time': 337, 'level': 3}, {'ability': 12498, 'time': 507, 'level': 4}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 183332589, 'player_slot': 3, 'hero_id': 112, 'item_0': 0, 'item_1': 180, 'item_2': 244, 'item_3': 13289, 'item_4': 13289, 'item_5': 13289, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 3, 'assists': 0, 'leaver_status': 1, 'last_hits': 40, 'denies': 0, 'gold_per_min': 160, 'xp_per_min': 182, 'level': 4, 'net_worth': 2005, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 218, 'gold': 455, 'gold_spent': 1050, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 158, 'ability_upgrades': [{'ability': 12378, 'time': 133, 'level': 1}, {'ability': 12373, 'time': 221, 'level': 2}, {'ability': 12373, 'time': 371, 'level': 3}, {'ability': 12378, 'time': 481, 'level': 4}], 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 450, 'pre_game_duration': 5, 'start_time': 1645125164, 'match_id': 6436629564, 'match_seq_num': 5379746234, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 153, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 13}
+Traceback (most recent call last):
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\packages\six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 86, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+18-Feb-22 17:01:24 root - ERROR - {'players': [{'account_id': 192891585, 'player_slot': 0, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0}, {'player_slot': 1, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 2, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 3, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 4, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 128, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 129, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 130, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 131, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 132, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}], 'radiant_win': False, 'duration': 0, 'pre_game_duration': 90, 'start_time': 1645185523, 'match_id': 6437494421, 'match_seq_num': 5380453871, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 156, 'first_blood_time': 0, 'lobby_type': 14, 'human_players': 1, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 13, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 86, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+18-Feb-22 17:01:26 root - ERROR - {'players': [{'account_id': 192891585, 'player_slot': 0, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0}, {'player_slot': 1, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 2, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 3, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 4, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 128, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 129, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 130, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 131, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 132, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}], 'radiant_win': False, 'duration': 0, 'pre_game_duration': 90, 'start_time': 1645185523, 'match_id': 6437494421, 'match_seq_num': 5380453871, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 156, 'first_blood_time': 0, 'lobby_type': 14, 'human_players': 1, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 13, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 86, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+18-Feb-22 17:01:34 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 93, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 13139, 'item_5': 13155, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 173, 'xp_per_min': 0, 'level': 1, 'net_worth': 1700, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 48, 'item_0': 29, 'item_1': 0, 'item_2': 13154, 'item_3': 13289, 'item_4': 13289, 'item_5': 13289, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 173, 'xp_per_min': 0, 'level': 1, 'net_worth': 1800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 158714645, 'player_slot': 2, 'hero_id': 72, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 100, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 173, 'xp_per_min': 0, 'level': 1, 'net_worth': 1050, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 86, 'pre_game_duration': 5, 'start_time': 1645185476, 'match_id': 6437493536, 'match_seq_num': 5380455103, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 227, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 86, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+19-Feb-22 02:55:54 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 110, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 88, 'item_5': 13154, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 331, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 225, 'gold_spent': 425, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12925, 'time': 81, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 162699550, 'player_slot': 1, 'hero_id': 85, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 13151, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 284, 'xp_per_min': 0, 'level': 1, 'net_worth': 1600, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 600, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12611, 'time': 83, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 2, 'hero_id': 57, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 189, 'xp_per_min': 0, 'level': 1, 'net_worth': 1000, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 500, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 112, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 13143, 'item_5': 13154, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 331, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 63, 'pre_game_duration': 5, 'start_time': 1645220835, 'match_id': 6438431570, 'match_seq_num': 5381243496, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 152, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\packages\six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+19-Feb-22 16:38:36 root - ERROR - {'error': 'Match ID not found'}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 87, in <module>
+    all_mode.append(game['result']['game_mode'])
+KeyError: 'game_mode'
+19-Feb-22 22:20:01 root - ERROR - {'error': 'Match ID not found'}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 87, in <module>
+    all_mode.append(game['result']['game_mode'])
+KeyError: 'game_mode'
+19-Feb-22 22:38:05 root - ERROR - {'error': 'Match ID not found'}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 87, in <module>
+    all_mode.append(game['result']['game_mode'])
+KeyError: 'game_mode'
+20-Feb-22 11:31:48 root - ERROR - {'error': 'Match ID not found'}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 87, in <module>
+    all_mode.append(game['result']['game_mode'])
+KeyError: 'game_mode'
+20-Feb-22 11:31:50 root - ERROR - {'error': 'Match ID not found'}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 87, in <module>
+    all_mode.append(game['result']['game_mode'])
+KeyError: 'game_mode'
+20-Feb-22 14:13:31 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 39, 'item_0': 29, 'item_1': 13154, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 1, 'assists': 0, 'leaver_status': 1, 'last_hits': 8, 'denies': 0, 'gold_per_min': 69, 'xp_per_min': 37, 'level': 1, 'net_worth': 1800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12592, 'time': 129, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 85, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 1, 'assists': 0, 'leaver_status': 1, 'last_hits': 6, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 37, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 414, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 377, 'ability_upgrades': [{'ability': 12611, 'time': 135, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 2, 'hero_id': 97, 'item_0': 29, 'item_1': 0, 'item_2': 13154, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 3, 'denies': 0, 'gold_per_min': 96, 'xp_per_min': 37, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 230, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 283, 'ability_upgrades': [{'ability': 12333, 'time': 133, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 170752305, 'player_slot': 3, 'hero_id': 100, 'item_0': 29, 'item_1': 13151, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 1, 'denies': 0, 'gold_per_min': 69, 'xp_per_min': 37, 'level': 1, 'net_worth': 1550, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12413, 'time': 137, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 216, 'pre_game_duration': 5, 'start_time': 1645347825, 'match_id': 6440932961, 'match_seq_num': 5383317091, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 155, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 2}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+20-Feb-22 14:13:32 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 39, 'item_0': 29, 'item_1': 13154, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 1, 'assists': 0, 'leaver_status': 1, 'last_hits': 8, 'denies': 0, 'gold_per_min': 69, 'xp_per_min': 37, 'level': 1, 'net_worth': 1800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12592, 'time': 129, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 85, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 1, 'assists': 0, 'leaver_status': 1, 'last_hits': 6, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 37, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 414, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 377, 'ability_upgrades': [{'ability': 12611, 'time': 135, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 2, 'hero_id': 97, 'item_0': 29, 'item_1': 0, 'item_2': 13154, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 3, 'denies': 0, 'gold_per_min': 96, 'xp_per_min': 37, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 230, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 283, 'ability_upgrades': [{'ability': 12333, 'time': 133, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 170752305, 'player_slot': 3, 'hero_id': 100, 'item_0': 29, 'item_1': 13151, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 1, 'denies': 0, 'gold_per_min': 69, 'xp_per_min': 37, 'level': 1, 'net_worth': 1550, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12413, 'time': 137, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 216, 'pre_game_duration': 5, 'start_time': 1645347825, 'match_id': 6440932961, 'match_seq_num': 5383317091, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 155, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 2}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 358, in connect
+    conn = self._new_conn()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+20-Feb-22 14:13:40 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 128, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0}, {'player_slot': 0, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 1, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 2, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 3, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 4, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 129, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 130, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 131, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}, {'player_slot': 132, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'last_hits': 0, 'denies': 0, 'gold_per_min': 7860, 'xp_per_min': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 0, 'net_worth': 0}], 'radiant_win': False, 'duration': 0, 'pre_game_duration': 90, 'start_time': 1645347803, 'match_id': 6440932347, 'match_seq_num': 5383311175, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 145, 'first_blood_time': 0, 'lobby_type': 14, 'human_players': 1, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 13, 'flags': 0, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+20-Feb-22 14:13:46 root - ERROR - {'players': [{'account_id': 28448247, 'player_slot': 0, 'hero_id': 135, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 2, 'assists': 0, 'leaver_status': 1, 'last_hits': 6, 'denies': 0, 'gold_per_min': 294, 'xp_per_min': 201, 'level': 3, 'net_worth': 2117, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 1617, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12884, 'time': 177, 'level': 1}, {'ability': 12885, 'time': 223, 'level': 2}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 85, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 7, 'denies': 0, 'gold_per_min': 283, 'xp_per_min': 201, 'level': 3, 'net_worth': 2067, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 1567, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12611, 'time': 165, 'level': 1}, {'ability': 12609, 'time': 224, 'level': 2}, {'ability': 12611, 'time': 308, 'level': 3}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 69704237, 'player_slot': 2, 'hero_id': 57, 'item_0': 29, 'item_1': 13154, 'item_2': 244, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 2, 'assists': 0, 'leaver_status': 1, 'last_hits': 4, 'denies': 0, 'gold_per_min': 294, 'xp_per_min': 201, 'level': 3, 'net_worth': 2867, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 180, 'gold': 1367, 'gold_spent': 250, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 184, 'ability_upgrades': [{'ability': 12296, 'time': 168, 'level': 1}, {'ability': 12121, 'time': 226, 'level': 2}], 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 126, 'item_0': 244, 'item_1': 0, 'item_2': 13154, 'item_3': 29, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 2, 'assists': 0, 'leaver_status': 1, 'last_hits': 12, 'denies': 0, 'gold_per_min': 305, 'xp_per_min': 201, 'level': 3, 'net_worth': 2917, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 469, 'gold': 1417, 'gold_spent': 250, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 552, 'ability_upgrades': [{'ability': 12763, 'time': 182, 'level': 1}, {'ability': 12762, 'time': 221, 'level': 2}], 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 268, 'pre_game_duration': 5, 'start_time': 1645347789, 'match_id': 6440932099, 'match_seq_num': 5383317475, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 151, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 6}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+20-Feb-22 14:13:54 root - ERROR - {'players': [{'player_slot': 0, 'hero_id': 5, 'item_0': 44, 'item_1': 216, 'item_2': 38, 'item_3': 16, 'item_4': 39, 'item_5': 237, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 247, 'last_hits': 0, 'denies': 0, 'gold_per_min': 244, 'xp_per_min': 270, 'gold_spent': 625, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 2, 'net_worth': 882}, {'player_slot': 1, 'hero_id': 47, 'item_0': 29, 'item_1': 44, 'item_2': 20, 'item_3': 237, 'item_4': 14, 'item_5': 216, 'backpack_0': 16, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 1, 'deaths': 1, 'assists': 0, 'hero_damage': 233, 'tower_damage': 0, 'hero_healing': 0, 'gold': 108, 'last_hits': 0, 'denies': 0, 'gold_per_min': 609, 'xp_per_min': 850, 'gold_spent': 1170, 'scaled_hero_damage': 526, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 3, 'net_worth': 1378}, {'player_slot': 2, 'hero_id': 22, 'item_0': 44, 'item_1': 16, 'item_2': 20, 'item_3': 216, 'item_4': 15, 'item_5': 237, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 86, 'tower_damage': 0, 'hero_healing': 0, 'gold': 446, 'last_hits': 3, 'denies': 2, 'gold_per_min': 463, 'xp_per_min': 270, 'gold_spent': 670, 'scaled_hero_damage': 63, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 2, 'net_worth': 1216}, {'player_slot': 3, 'hero_id': 2, 'item_0': 44, 'item_1': 16, 'item_2': 11, 'item_3': 39, 'item_4': 216, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 473, 'last_hits': 3, 'denies': 1, 'gold_per_min': 456, 'xp_per_min': 435, 'gold_spent': 635, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 2, 'net_worth': 1118}, {'player_slot': 4, 'hero_id': 30, 'item_0': 44, 'item_1': 38, 'item_2': 216, 'item_3': 16, 'item_4': 0, 'item_5': 237, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 147, 'last_hits': 0, 'denies': 0, 'gold_per_min': 244, 'xp_per_min': 3, 'gold_spent': 725, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 1, 'net_worth': 672}, {'player_slot': 128, 'hero_id': 26, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 1, 'assists': 0, 'hero_damage': 60, 'tower_damage': 0, 'hero_healing': 0, 'gold': 1086, 'last_hits': 3, 'denies': 0, 'gold_per_min': 436, 'xp_per_min': 208, 'gold_spent': 0, 'scaled_hero_damage': 44, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 2, 'net_worth': 1086}, {'player_slot': 129, 'hero_id': 31, 'item_0': 216, 'item_1': 44, 'item_2': 244, 'item_3': 16, 'item_4': 38, 'item_5': 29, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 1, 'deaths': 0, 'assists': 0, 'hero_damage': 556, 'tower_damage': 0, 'hero_healing': 0, 'gold': 78, 'last_hits': 0, 'denies': 0, 'gold_per_min': 762, 'xp_per_min': 237, 'gold_spent': 1370, 'scaled_hero_damage': 695, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 2, 'net_worth': 1183}, {'player_slot': 130, 'hero_id': 44, 'item_0': 16, 'item_1': 44, 'item_2': 11, 'item_3': 16, 'item_4': 237, 'item_5': 39, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 1, 'hero_damage': 366, 'tower_damage': 0, 'hero_healing': 0, 'gold': 396, 'last_hits': 2, 'denies': 0, 'gold_per_min': 436, 'xp_per_min': 422, 'gold_spent': 690, 'scaled_hero_damage': 503, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 2, 'net_worth': 996}, {'player_slot': 131, 'hero_id': 35, 'item_0': 75, 'item_1': 16, 'item_2': 44, 'item_3': 0, 'item_4': 237, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 409, 'tower_damage': 0, 'hero_healing': 0, 'gold': 57, 'last_hits': 0, 'denies': 0, 'gold_per_min': 244, 'xp_per_min': 96, 'gold_spent': 815, 'scaled_hero_damage': 613, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 1, 'net_worth': 872}, {'player_slot': 132, 'hero_id': 21, 'item_0': 44, 'item_1': 16, 'item_2': 39, 'item_3': 216, 'item_4': 237, 'item_5': 38, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'hero_damage': 428, 'tower_damage': 0, 'hero_healing': 0, 'gold': 247, 'last_hits': 0, 'denies': 0, 'gold_per_min': 244, 'xp_per_min': 147, 'gold_spent': 625, 'scaled_hero_damage': 603, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'level': 1, 'net_worth': 782}], 'radiant_win': False, 'duration': 66, 'pre_game_duration': 90, 'start_time': 1645347783, 'match_id': 6440931867, 'match_seq_num': 5383314856, 'tower_status_radiant': 2047, 'tower_status_dire': 2047, 'barracks_status_radiant': 63, 'barracks_status_dire': 63, 'cluster': 144, 'first_blood_time': 5, 'lobby_type': 14, 'human_players': 0, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 13, 'flags': 0, 'engine': 1, 'radiant_score': 1, 'dire_score': 1}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+20-Feb-22 14:13:57 root - ERROR - {'players': [{'account_id': 124500685, 'player_slot': 0, 'hero_id': 39, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 13143, 'item_5': 13152, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 415, 'xp_per_min': 0, 'level': 1, 'net_worth': 1800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 102638369, 'player_slot': 1, 'hero_id': 100, 'item_0': 29, 'item_1': 0, 'item_2': 13154, 'item_3': 13289, 'item_4': 13289, 'item_5': 13289, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 582, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 2, 'hero_id': 93, 'item_0': 29, 'item_1': 13289, 'item_2': 13289, 'item_3': 13289, 'item_4': 0, 'item_5': 13154, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 582, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 57, 'item_0': 29, 'item_1': 0, 'item_2': 13152, 'item_3': 13289, 'item_4': 13289, 'item_5': 13289, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 582, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'ability_upgrades': [{'ability': 12120, 'time': 68, 'level': 1}], 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 36, 'pre_game_duration': 5, 'start_time': 1645348321, 'match_id': 6440945058, 'match_seq_num': 5383322602, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 223, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 358, in connect
+    conn = self._new_conn()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+20-Feb-22 18:53:46 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 16, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 13154, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 497, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 36095714, 'player_slot': 1, 'hero_id': 56, 'item_0': 29, 'item_1': 13154, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 497, 'xp_per_min': 0, 'level': 1, 'net_worth': 1900, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 142159624, 'player_slot': 2, 'hero_id': 97, 'item_0': 29, 'item_1': 13135, 'item_2': 13152, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 355, 'xp_per_min': 0, 'level': 1, 'net_worth': 1800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 550, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 149103860, 'player_slot': 3, 'hero_id': 93, 'item_0': 29, 'item_1': 0, 'item_2': 13151, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 497, 'xp_per_min': 0, 'level': 1, 'net_worth': 1650, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 650, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 42, 'pre_game_duration': 5, 'start_time': 1645364650, 'match_id': 6441397668, 'match_seq_num': 5383679027, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 153, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+20-Feb-22 18:53:51 root - ERROR - {'players': [{'account_id': 1142647132, 'player_slot': 0, 'hero_id': 57, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 56, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 165545093, 'player_slot': 2, 'hero_id': 6, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 58059162, 'player_slot': 3, 'hero_id': 3, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 107, 'pre_game_duration': 5, 'start_time': 1645364642, 'match_id': 6441397457, 'match_seq_num': 5383681076, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 274, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+20-Feb-22 18:53:52 root - ERROR - {'players': [{'account_id': 1142647132, 'player_slot': 0, 'hero_id': 57, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 56, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 165545093, 'player_slot': 2, 'hero_id': 6, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 58059162, 'player_slot': 3, 'hero_id': 3, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 107, 'pre_game_duration': 5, 'start_time': 1645364642, 'match_id': 6441397457, 'match_seq_num': 5383681076, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 274, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+20-Feb-22 18:53:54 root - ERROR - {'players': [{'account_id': 1142647132, 'player_slot': 0, 'hero_id': 57, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 56, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 165545093, 'player_slot': 2, 'hero_id': 6, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 58059162, 'player_slot': 3, 'hero_id': 3, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 107, 'pre_game_duration': 5, 'start_time': 1645364642, 'match_id': 6441397457, 'match_seq_num': 5383681076, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 274, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+20-Feb-22 18:53:57 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 47, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 23, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 346403715, 'player_slot': 2, 'hero_id': 110, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 135, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 27, 'pre_game_duration': 5, 'start_time': 1645365152, 'match_id': 6441414591, 'match_seq_num': 5383691178, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 181, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+20-Feb-22 18:53:59 root - ERROR - {'players': [{'account_id': 4294967295, 'player_slot': 0, 'hero_id': 47, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 1, 'hero_id': 23, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 346403715, 'player_slot': 2, 'hero_id': 110, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 135, 'item_0': 29, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 1, 'net_worth': 800, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 300, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 27, 'pre_game_duration': 5, 'start_time': 1645365152, 'match_id': 6441414591, 'match_seq_num': 5383691178, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 181, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 358, in connect
+    conn = self._new_conn()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+20-Feb-22 21:16:47 root - ERROR - {'players': [{'account_id': 36493120, 'player_slot': 0, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 69805257, 'player_slot': 1, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 837559102, 'player_slot': 2, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}, {'account_id': 4294967295, 'player_slot': 3, 'hero_id': 0, 'item_0': 0, 'item_1': 0, 'item_2': 0, 'item_3': 0, 'item_4': 0, 'item_5': 0, 'backpack_0': 0, 'backpack_1': 0, 'backpack_2': 0, 'item_neutral': 0, 'kills': 0, 'deaths': 0, 'assists': 0, 'leaver_status': 1, 'last_hits': 0, 'denies': 0, 'gold_per_min': 0, 'xp_per_min': 0, 'level': 0, 'net_worth': 0, 'aghanims_scepter': 0, 'aghanims_shard': 0, 'moonshard': 0, 'hero_damage': 0, 'tower_damage': 0, 'hero_healing': 0, 'gold': 0, 'gold_spent': 0, 'scaled_hero_damage': 0, 'scaled_tower_damage': 0, 'scaled_hero_healing': 0, 'custom_game': {'team': 2, 'winner': False}}], 'radiant_win': False, 'duration': 0, 'pre_game_duration': 5, 'start_time': 1645373248, 'match_id': 6441670469, 'match_seq_num': 5383908808, 'tower_status_radiant': 0, 'tower_status_dire': 0, 'barracks_status_radiant': 0, 'barracks_status_dire': 0, 'cluster': 182, 'first_blood_time': 0, 'lobby_type': 12, 'human_players': 4, 'leagueid': 0, 'positive_votes': 0, 'negative_votes': 0, 'game_mode': 19, 'flags': 1, 'engine': 1, 'radiant_score': 0, 'dire_score': 0}
+Traceback (most recent call last):
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 85, in <module>
+    game = get_match_data(i['match_id'])
+  File "c:/Users/dilovar.mashrabov/Desktop/Junior Semester_2/Data Science/Project/game_id_collector.py", line 49, in get_match_data
+    response = requests.request("GET", url, headers=headers, params=querystring)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connection.py", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\dilovar.mashrabov\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\ssl_.py", line 402, in ssl_wrap_socket
+    context.load_verify_locations(ca_certs, ca_cert_dir, ca_cert_data)
+KeyboardInterrupt
